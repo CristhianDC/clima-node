@@ -6,5 +6,8 @@ Recuerden instalar los paquetes de Node
 
 ```
 npm install
-App - Clima!
 ```
+
+##Ejemplo de Uso
+
+```node app -d "Caguan"```
