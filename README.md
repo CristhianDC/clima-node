@@ -8,6 +8,6 @@ Recuerden instalar los paquetes de Node
 npm install
 ```
 
-##Ejemplo de Uso
+Ejemplo de Uso
 
 ```node app -d "Caguan"```
